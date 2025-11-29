@@ -1,4 +1,4 @@
-<h1>Hi, I'm Neel! <br/><a href="https://www.linkedin.com/in/neelspatel999/">Aspiring Cybersecurity Analyst</a>
+<h1>Hi, I'm Neel! <br/><a href="https://www.linkedin.com/in/neelspatel999/">Security Engineering, Detection and Incident Response</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
